@@ -1,16 +1,150 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Rakesh Bisht</h1>
+<h3 align="center">Building AI tools, developer products & powerful CLI experiences</h3>
 
-<!--
-**raksbisht/raksbisht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raksbisht&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  ⚡ AI + DevTools Builder <br/>
+  🚀 Shipping fast, building useful things <br/>
+  🧠 Turning ideas into products
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+* 🛠️ I build tools developers actually use (not just demos)
+* ⚡ Currently obsessed with:
+  * AI Agents
+  * CLI Tools
+  * Developer Productivity
+* 🧩 Strong focus on **Cursor plugins & dev workflows**
+
+> I don’t just write code — I ship products.
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 SiteChat
+> Open-source, self-hosted AI chatbot for your website — no vendor lock-in.
+
+* 🧠 RAG-powered (trained on your docs/content)
+* 🔌 Embeddable widget for any site
+* 🔒 Privacy-first & fully self-hosted
+
+---
+
+### 📊 ReviewHub
+> One place to track, analyze, and understand app reviews.
+
+* 📱 Android + iOS support
+* 📈 Sentiment analysis & trend tracking
+* 🧠 Built for product teams & indie hackers
+
+---
+
+### 🧩 Storybook MCP
+> Universal MCP server to extract data from any Storybook instance.
+
+* 🔗 Works with any Storybook
+* ⚡ Real-time extraction via Playwright
+* 🧠 Useful for automation, docs & AI agents
+
+---
+
+### 🔐 is-jwt-token
+> Tiny utility to quickly validate JWT format.
+
+* ⚡ Lightweight & fast
+* 🧩 Simple single-function usage
+* 📦 Perfect for backend & auth flows
+
+---
+
+## ⚡ Cursor Plugins (My Playground)
+
+### 🧹 Dead Code Finder
+> Find and eliminate useless code before it bites.
+
+* 🔍 Detects unused imports, variables, functions
+* ⚡ Language-agnostic
+* 🧠 Report-first, safe cleanup
+
+---
+
+### 🖼️ Image → HTML
+> Turn UI screenshots into working code.
+
+* 🧠 Image → HTML/CSS generation
+* 🌐 Instant browser preview
+* 🔁 Iterate until pixel-perfect
+
+---
+
+### 🧼 Vibe Code Cleaner
+> Make messy code feel good again.
+
+* 🧹 Cleans formatting, noise & structure
+* 🧠 Improves naming & readability
+* ⚡ Stack-agnostic
+
+---
+
+### 🔐 No Secrets
+> Catch secrets before they reach production.
+
+* 🔍 Detects API keys, env leaks, tokens
+* 🛡️ Suggests secure fixes
+* 🧠 Built for real-world security hygiene
+
+---
+
+## 🧰 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,mongodb,docker,git" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raksbisht&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raksbisht&theme=radical" />
+</p>
+
+---
+
+## 🧠 How I Build
+
+* Build fast → validate → iterate
+* Useful > complex
+* CLI is underrated (AI agents love CLI 👀)
+* Ship > perfection
+
+> Tools that save developers time win.
+
+---
+
+## ⚡ Currently
+
+* 🚧 Building: AI CLI Router
+* 🔍 Exploring: MCP, AI Agents
+* 🎯 Goal: Ship 1 dev tool / month
+
+---
+
+## 🌐 Connect
+
+* 🧑‍💻 GitHub: https://github.com/raksbisht
+* ✍️ DEV: https://dev.to/raksbisht
+
+---
+
+<p align="center">
+  ⚡ If it’s useful, I’ll build it.
+</p>
