@@ -21,6 +21,7 @@
   * CLI Tools
   * Developer Productivity
 * 🧩 Strong focus on **Cursor plugins & dev workflows**
+* 💻 Core languages: **TypeScript, Python, PHP**
 
 > I don’t just write code — I ship products.
 
@@ -117,7 +118,7 @@
 ## 🧰 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,mongodb,docker,git" />
+  <img src="https://skillicons.dev/icons?i=ts,python,php,nodejs,js,react,mongodb,docker,git" />
 </p>
 
 ---
