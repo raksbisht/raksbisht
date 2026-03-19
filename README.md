@@ -66,6 +66,8 @@
 
 ## ⚡ Cursor Plugins (My Playground)
 
+> 👉 Explore all plugins: https://cursor.directory/u/raksbisht?tab=plugins
+
 ### 🧹 Dead Code Finder
 > Find and eliminate useless code before it bites.
 
@@ -99,6 +101,16 @@
 * 🔍 Detects API keys, env leaks, tokens
 * 🛡️ Suggests secure fixes
 * 🧠 Built for real-world security hygiene
+
+---
+
+## 📦 NPM Packages
+
+> 👉 Explore all packages: https://www.npmjs.com/~raksbisht
+
+* 🧠 Published utilities & dev tools
+* ⚡ Focused on lightweight, practical usage
+* 📦 Used in real-world projects & workflows
 
 ---
 
@@ -141,7 +153,8 @@
 ## 🌐 Connect
 
 * 🧑‍💻 GitHub: https://github.com/raksbisht
-* ✍️ DEV: https://dev.to/raksbisht
+* 📦 NPM: https://www.npmjs.com/~raksbisht
+* 🧩 Cursor Plugins: https://cursor.directory/u/raksbisht?tab=plugins
 
 ---
 
