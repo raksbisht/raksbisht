@@ -32,6 +32,8 @@
 ### 🤖 SiteChat
 > Open-source, self-hosted AI chatbot for your website — no vendor lock-in.
 
+🔗 https://github.com/raksbisht/sitechat
+
 * 🧠 RAG-powered (trained on your docs/content)
 * 🔌 Embeddable widget for any site
 * 🔒 Privacy-first & fully self-hosted
@@ -40,6 +42,8 @@
 
 ### 📊 ReviewHub
 > One place to track, analyze, and understand app reviews.
+
+🔗 https://github.com/raksbisht/reviewhub
 
 * 📱 Android + iOS support
 * 📈 Sentiment analysis & trend tracking
@@ -50,6 +54,8 @@
 ### 🧩 Storybook MCP
 > Universal MCP server to extract data from any Storybook instance.
 
+🔗 https://github.com/raksbisht/storybook-mcp
+
 * 🔗 Works with any Storybook
 * ⚡ Real-time extraction via Playwright
 * 🧠 Useful for automation, docs & AI agents
@@ -59,6 +65,8 @@
 ### 🔐 is-jwt-token
 > Tiny utility to quickly validate JWT format.
 
+🔗 https://github.com/raksbisht/is-jwt-token
+
 * ⚡ Lightweight & fast
 * 🧩 Simple single-function usage
 * 📦 Perfect for backend & auth flows
@@ -67,12 +75,14 @@
 
 ### 💥 Blame Yourself
 > Brutally honest CLI tool that reminds you who’s responsible — you.
+
+🔗 https://github.com/raksbisht/blame-yourself
+
 * 😈 Fun + sarcastic developer tool
 * ⚡ Lightweight CLI experience
 * 🧠 Great for demos, jokes & terminal personality
 
 ---
-
 
 ## ⚡ Cursor Plugins (My Playground)
 
