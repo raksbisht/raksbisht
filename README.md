@@ -65,6 +65,15 @@
 
 ---
 
+### 💥 Blame Yourself
+> Brutally honest CLI tool that reminds you who’s responsible — you.
+* 😈 Fun + sarcastic developer tool
+* ⚡ Lightweight CLI experience
+* 🧠 Great for demos, jokes & terminal personality
+
+---
+
+
 ## ⚡ Cursor Plugins (My Playground)
 
 > 👉 Explore all plugins: https://cursor.directory/u/raksbisht?tab=plugins
