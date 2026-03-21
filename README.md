@@ -63,12 +63,11 @@
 ---
 
 ### 🧹 Secret History
-> Clean and purge sensitive data from Git history safely.
+> Find sensitive data from Git history.
 
 🔗 https://github.com/raksbisht/secret-history
 
-* 🔐 Removes leaked secrets from commits
-* ⚡ Supports git-filter-repo & BFG workflows
+* 🔐 Find leaked secrets from commits
 * 🧠 Built for real-world security fixes
 
 ---
