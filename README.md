@@ -44,6 +44,26 @@
 
 ---
 
+### ⚡ Cursor Plugins
+
+* Dead Code Finder
+  https://github.com/raksbisht/dead-code-finder
+  (https://cursor.directory/plugins/dead-code-finder-2)
+
+* Image to HTML
+  https://github.com/raksbisht/image-to-html
+  (https://cursor.directory/plugins/image-to-html)
+
+* Vibe Code Cleaner
+  https://github.com/raksbisht/vibe-code-cleaner
+  (https://cursor.directory/plugins/vibe-code-cleaner)
+
+* No Secrets
+  https://github.com/raksbisht/no-secrets
+  (https://cursor.directory/plugins/no-secrets)
+
+---
+
 ### 📦 NPM Packages
 
 * is-numeric-emoji
@@ -72,25 +92,6 @@
 
 ---
 
-### ⚡ Cursor Plugins
-
-* Dead Code Finder
-  https://github.com/raksbisht/dead-code-finder
-  (https://cursor.directory/plugins/dead-code-finder-2)
-
-* Image to HTML
-  https://github.com/raksbisht/image-to-html
-  (https://cursor.directory/plugins/image-to-html)
-
-* Vibe Code Cleaner
-  https://github.com/raksbisht/vibe-code-cleaner
-  (https://cursor.directory/plugins/vibe-code-cleaner)
-
-* No Secrets
-  https://github.com/raksbisht/no-secrets
-  (https://cursor.directory/plugins/no-secrets)
-
----
 
 ## ⚡ Philosophy
 
