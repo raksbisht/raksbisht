@@ -10,7 +10,7 @@ Developer tools · AI agents · MCP servers · Cursor plugins
 
 <br />
 
-I build small, focused tools for developers. Most of them start as an annoyance in my own workflow and end up as a CLI, an MCP server or an editor plugin. I work mainly in JavaScript and Python, and lately in Rust.
+I build small, focused tools for developers. Most of them start as an annoyance in my own workflow and end up as a CLI, an MCP server or an editor plugin. I work mainly in JavaScript , PHP , Python, and lately in Rust.
 
 ### Currently building
 
